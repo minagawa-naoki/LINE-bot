@@ -98,16 +98,6 @@ def num(num):
 """------------------授業名とmoodleURL-----------"""
 
 
-lesson = {"web開発実習":"https://moodle.it-hac-neec.jp/course/view.php?id=439",
-"キャリアデザイン":"https://moodle.it-hac-neec.jp/course/view.php?id=441",
-"AIプログラミング実習":"https://moodle.it-hac-neec.jp/course/view.php?id=443",
-"プロジェクト実習1":"https://moodle.it-hac-neec.jp/course/view.php?id=454",
-"AIプロデュース":"https://moodle.it-hac-neec.jp/course/view.php?id=455",
-"クラウドサービス実習":"https://moodle.it-hac-neec.jp/course/view.php?id=447",
-"情報資格対策講座1":"https://moodle.it-hac-neec.jp/course/view.php?id=447",
-"海外研修1":"https://moodle.it-hac-neec.jp/course/view.php?id=456",
-"プレゼンテーション":"https://moodle.it-hac-neec.jp/course/view.php?id=457",
-"ビジネススキル":"https://moodle.it-hac-neec.jp/course/view.php?id=449",
-"資格対策講座1":"https://moodle.it-hac-neec.jp/course/view.php?id=451",
-"IoT活用実習":"https://moodle.it-hac-neec.jp/course/view.php?id=438",
+lesson = {"授業名１":"授業名１URL",
+"授業名２":"授業名２URL",
 }
