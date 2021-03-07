@@ -71,7 +71,7 @@ def tokubai(number):
             error_name = "郵便番号の入力に失敗しています。\n(例:111-2222"
             return error_name
         else:
-            driver = webdriver.Chrome(executable_path=r"C:\Users\g020c1107\Desktop\VScode_folder\python_folder\.vscode\制作物\自動出席\chromedriver.exe")
+            driver = webdriver.Chrome(executable_path=r"")
             driver.get("https://tokubai.co.jp/")
             driver.implicitly_wait(10)
             driver.find_element_by_name("first_digits").send_keys(number[0:3])  # 一つ目の郵便番号 入力
